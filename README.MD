@@ -1,6 +1,6 @@
 # 🚀 Dad Joke App
 
-(Live on: https://dad-joke-app-ka.netlify.app/)
+(Live on: https://dad-joke-ka.pages.dev/)
 
 A quick app that fetches new dad jokes using an API. Built in HTML, CSS, and JS.
 
